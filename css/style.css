@@ -1765,6 +1765,11 @@ svg {
   line-height: 15px;
   color: #ffffff;
 }
+@media screen and (min-width: 992px) {
+  .footer__bottom-text {
+    font-size: 16px;
+  }
+}
 .footer__contacts-text {
   line-height: 21px;
 }
